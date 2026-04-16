@@ -6,8 +6,8 @@ window.onload = function() {
   ];
   // 手机端背景
   const mobileImages = [
-    "https://picsum.photos/1080/1920?random=1",
-    "https://picsum.photos/1080/1920?random=2"
+    "https://cdn.jsdelivr.net/gh/IArvinServer/Theme@main/Mobile2.png",
+    "https://cdn.jsdelivr.net/gh/IArvinServer/Theme@main/Mobile2.png"
   ];
 
   // 判断设备
