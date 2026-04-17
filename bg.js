@@ -1,13 +1,11 @@
 window.onload = function() {
   // 电脑端背景
   const pcImages = [
-    "https://cdn.jsdelivr.net/gh/IArvinServer/Theme@main/2.png",
     "https://cdn.jsdelivr.net/gh/IArvinServer/Theme@main/2.png"
   ];
   // 手机端背景
   const mobileImages = [
-    "https://cdn.jsdelivr.net/gh/IArvinServer/Theme@main/Mobile2.png",
-    "https://cdn.jsdelivr.net/gh/IArvinServer/Theme@main/Mobile2.png"
+    "https://cdn.jsdelivr.net/gh/IArvinServer/Theme@main/1000096126.webp"
   ];
 
   // 判断设备
